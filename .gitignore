@@ -1,0 +1,4 @@
+# на GitHub Pages уходит только сама игра
+*
+!index.html
+!.gitignore
